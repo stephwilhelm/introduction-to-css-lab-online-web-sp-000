@@ -6,11 +6,11 @@ body {
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
-  width: 700px
+  width:700px
   margin: auto;
   font-family: "Helvetica Neue"
   background: white
-  padding: 30px
+  padding:30px
   /* Your code here! */
 }
 
